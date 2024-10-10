@@ -10,3 +10,7 @@ Try do some classification on music based on ML, especially DeepLearnning
 5. 评估模型的性能。 
 6. 分析和比较不同数据结构对于模型性能和数据处理效率的影响。 
 7. 试分析音乐曲目的特征数据对曲目受欢迎程度的影响。
+
+# Solutions
+
+进度在[Progress](progress.md)
