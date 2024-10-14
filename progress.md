@@ -23,8 +23,11 @@ popularity和catagory不会同时出现，因为它们的任务是独立的
 # 现在完成的工作有
 1. 对于训练用不到的序列删除了，产出了[Processed_dataset](processed_dataset.csv)
 2. 使用SKlearn的MLP做了初步尝试，准确率从16%->22%，代码在[tests](tests.ipynb)
+3. 使用MindSpore构建了MLP[First MLP](FirstMLP.ipynb); [TestForMLPAdjustment](TestForMLPAdjustment.ipynb)
+4. 完成了一部分特征工程
 
 # 计划中的工作
-1. 部署mindSpore环境（似乎完成了）
-2. 在mindSpore上复现已经完成的内容
+<!-- 1. 部署mindSpore环境（似乎完成了） -->
+<!-- 2. 在mindSpore上复现已经完成的内容 -->
 3. 一些文书工作：记录现有的进度，写成报告的样子
+4. 继续特征工程和模型调整
